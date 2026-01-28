@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <math.h>
 int main(){
 	float cc, gk, ck, tong;
 	char grade;
