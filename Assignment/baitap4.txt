@@ -1,0 +1,10 @@
+3
+101
+Bao Han
+8.5
+101
+Minh Toan
+8.0
+103
+Ngoc Thai
+8.3
